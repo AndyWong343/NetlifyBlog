@@ -4,10 +4,10 @@ description: |
   Welcome to our new blog, NetlifyBlog. We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: Andy Wong (BBM, BCCE)
+    url: https://www.linkedin.com/in/andywongkh
+    affiliation: Master of IT in Business (Analytics), School of Computing and Information Systems, Singapore Management University
+    affiliation_url: https://scis.smu.edu.sg/master-it-business
 date: 01-26-2021
 output:
   distill::distill_article:
