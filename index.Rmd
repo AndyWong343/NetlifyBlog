@@ -1,5 +1,5 @@
 ---
-title: "NetlifyBlog"
+title: "My data visualisation journey."
 site: distill::distill_website
 listing: posts
 ---
