@@ -1,5 +1,6 @@
 ---
 title: "NetlifyBlog"
-site: distill::distill_website
-listing: posts
+listing:
+  posts:
+    - dataviz-makeover-1
 ---
