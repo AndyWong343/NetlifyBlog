@@ -9,16 +9,8 @@ navbar:
       href: home.html
     - text: "DataViz Makeover"
       href: dataviz.html
-    - text: "Visual Analytics Project"
+    - text: "Data Visualisation Project"
       href: vap.html
     - text: "About"
       href: about.html
 output: distill::distill_article
-
-<style type="text/css">
-.main-container {
-  max-width: 1800px;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
