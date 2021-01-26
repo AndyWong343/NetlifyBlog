@@ -1,5 +1,5 @@
 ---
-title: "NetlifyBlog"
+title: "DataViz Makeover posts"
 listing:
   posts:
     - dataviz-makeover-1

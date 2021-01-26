@@ -1,5 +1,5 @@
 ---
-title: "About this blog"
+title: "My data visualisation journey"
 description: |
   Some additional details about the blog
 site: distill::distill_website
