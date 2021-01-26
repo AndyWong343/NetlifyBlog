@@ -29,6 +29,20 @@
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
       "last_modified": "2021-01-26T13:27:01+08:00"
+    },
+    {
+      "path": "vap.html",
+      "title": "Visual Analytics Project",
+      "description": "Group project work for this course.\n",
+      "author": [
+        {
+          "name": "Andy WONG",
+          "url": "https://www.linkedin.com/in/andywongkh"
+        }
+      ],
+      "date": "01-28-2021",
+      "contents": "\r\nVisual Analytics Project\r\nComing soon!\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-01-26T13:37:10+08:00"
     }
   ],
   "collections": ["posts/posts.json"]
