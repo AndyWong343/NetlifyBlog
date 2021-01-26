@@ -1,12 +1,16 @@
-name: "NetlifyBlog"
-title: "NetlifyBlog"
+name: "Netlify Blog"
+title: "My Data Visualisation Blog"
 description: |
-  NetlifyBlog
+  My Data Visualisation Blog
 output_dir: "_site"
 navbar:
   right:
     - text: "Home"
-      href: index.html
+      href: home.html
+    - text: "DataViz Makeover"
+      href: dataviz.html
+    - text: "Data Visualisation Project"
+      href: dap.html
     - text: "About"
       href: about.html
 output: distill::distill_article
