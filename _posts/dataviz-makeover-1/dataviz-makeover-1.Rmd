@@ -17,8 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # 1.0 Overview
-
-Data visualisation is published on [Tableau Public](https://public.tableau.com/views/DataVizMakeover1_16116436098390/LFPR2009-2019).
+The data visualisation is published on [Tableau Public](https://public.tableau.com/views/DataVizMakeover1_16116436098390/LFPR2009-2019).
 
 ### 1.1 Clarity vs aesthetics
 
