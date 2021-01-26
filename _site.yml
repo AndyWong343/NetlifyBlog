@@ -9,8 +9,8 @@ navbar:
       href: home.html
     - text: "DataViz Makeover"
       href: dataviz.html
-    - text: "Data Visualisation Project"
-      href: dap.html
+    - text: "Visual Analytics Project"
+      href: vap.html
     - text: "About"
       href: about.html
 output: distill::distill_article
