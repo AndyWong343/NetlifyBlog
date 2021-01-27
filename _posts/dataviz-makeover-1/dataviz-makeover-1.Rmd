@@ -29,7 +29,7 @@ In terms of aesthetics, the chart provided in the DataViz Makeover 1 assignment 
 
 However, the presentation of the data itself could be clearer. Based on this assessment, the chart falls into Quadrant IV of the matrix:
 
-![Source: https://dataremixed.com/2012/05/data-visualization-clarity-or-aesthetics](images/picture2.jpg){width=100%}
+![Source of clarity vs aesthetics matrix: https://dataremixed.com/2012/05/data-visualization-clarity-or-aesthetics](images/picture2.jpg){width=100%}
 
 # 2.0 Makeover
 ### 2.1 Critique of the visualisation, and suggested improvements
