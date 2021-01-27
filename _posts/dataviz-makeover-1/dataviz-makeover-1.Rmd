@@ -118,5 +118,3 @@ This blog is a data visualisation assignment for the [MITB programme](https://sc
 </br></br>
 <font size="2"> Distill is a publication format for scientific and technical writing, native to the web.</br>
 Learn more about using Distill at <https://rstudio.github.io/distill>. </font>
-
-
