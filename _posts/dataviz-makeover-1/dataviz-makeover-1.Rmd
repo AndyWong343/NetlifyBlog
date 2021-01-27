@@ -112,8 +112,6 @@ S/n | Observation
 3 | Of all the age groups, only the 20 to 24 age group declined in LFPR from 2009 to 2019. This is the only exception amongst all the age groups. As this is the age group of university undergraduates, it may signify that more people in this age group were attending university. However, this particular point warrants further study.
 4 | Overall, the lower the age group, the slower the increase in LFPR from 2009 to 2019, with the exception of the 15 to 19 age group, which seemed to reverse the trend compared to the next older age group (20 to 24). This seems to contradict Singapore’s Total Fertility Rate (TFR) which [has been declining](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate) consistently, but may have been bolstered by the slight up-tick in TFR in 2000.
 
-Thanks for visiting my blog!
-
 This blog is a data visualisation assignment for the [MITB programme](https://scis.smu.edu.sg/master-it-business) at the Singapore Management University.
 </br></br>
 <font size="2"> Distill is a publication format for scientific and technical writing, native to the web.</br>
