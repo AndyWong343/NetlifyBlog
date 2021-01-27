@@ -59,43 +59,63 @@ The sketch below is the proposed improved visualisation to address the critique 
 
 This visualisation was built using [Tableau Desktop Professional Edition 2020.4.0](httpshttps://www.tableau.com/products/desktop).
 
-S/n | Step | Action
-- | --- | ------
-1 | Import data into Tableau | Import Excel file into Tableau.</br>![](images/picture4.jpg){width=100%}
-2 | Clean the data | The data is not standardised and cleaned because the formatting of the spreadsheet is not friendly for data importation.</br>![](images/picture5.jpg){width=100%}
-3 | Clean the data | Click on the “Cleaned with Data Interpreter” to provide an initial clean-up of the data to allow for easier manual cleaning.</br>![](images/picture6.jpg){width=100%}
-4 | Clean the data | Hide the left-most column as it is not useful for this analysis.</br>![](images/picture7.jpg){width=75%}
-5 | Clean the data | Rename the “Age (Years) 1” column to “Age Group” for clarity.</br>![](images/picture8.jpg){height=75%}
-6 | Clean the data | Check that the “Age” column is of the correct data type _(String)_.</br>![](images/picture9.jpg){width=60%}
-7 | Clean the data | Check that the rest of the year columns are of the correct data type _(Number[decimal])_.</br>![](images/picture10.jpg){width=100%}
-8 | Build the visualisation | Drag "2009" and "2019" to the Columns pane and "Age Group" to the Rows pane.</br>![](images/picture11.jpg){width=100%}
-9 | Build the visualisation | Exclude the "NULL" and "Total" columns from the chart as these are not useful for the analysis.
-10 | Build the visualisation | Exclude the overlapping age groups, as these will confuse the data presented in the visualisation.</br>![](images/picture12.jpg){width=75%}
-11 | Build the visualisation | Sort "Age Group" in descending order.
-12 | Build the visualisation | Select "Dual Axis" to combine the two charts into one.</br>![](images/picture13.jpg){width=75%}
-13 | Build the visualisation | Select "Synchronise Axis" to ensure both charts' axes match.</br>![](images/picture14.jpg){width=75%}
-14 | Build the visualisation | Remove "Show Header" to show only one y-axis.</br>![](images/picture15.jpg){width=75%}
-15 | Build the visualisation | Change the 2019 Mark to Bar chart.</br>![](images/picture16.jpg){width=75%}
-16 | Build the visualisation | Swap "SUM(2019)" to the front of the Columns pane to display the 2019 chart behind the 2009 chart.</br>![](images/picture17.jpg){width=100%}
-17 | Build the visualisation | Edit the range of the x-axis to show the whole range of 0% to 100%. Rename label as "LFPR (%)".</br>![](images/picture18.jpg){width=100%}
-18 | Build the visualisation | Change the view to "Entire View" for visual clarity.</br>![](images/picture19.jpg){width=60%}
-19 | Build the visualisation | Edit the chart title.</br>![](images/picture20.jpg){width=100%}
-20 | Build the visualisation | Edit the Legend title to "Year".</br>![](images/picture21.jpg){width=75%}
-21 | Build the visualisation | Rename the Sheet.</br>![](images/picture22.jpg){width=100%}
-22 | Build the visualisation | The completed chart looks like this:</br>![](images/picture23.jpg){width=100%}
+**1. Import data into Tableau**</br>Import Excel file into Tableau.</br>![](images/picture4.jpg){width=100%}
+</br></br>
+**2. The data is not standardised and cleaned because the formatting of the spreadsheet is not friendly for data importation.**</br>![](images/picture5.jpg){width=100%}
+</br></br>
+**3. Clean the data**</br>Click on the “Cleaned with Data Interpreter” to provide an initial clean-up of the data to allow for easier manual cleaning.</br>![](images/picture6.jpg){width=100%}
+</br></br>
+**4. Hide uneccessary columns**</br>Hide the left-most column as it is not useful for this analysis.</br>![](images/picture7.jpg){width=75%}
+</br></br>
+**5. Rename columns**</br>Rename the “Age (Years) 1” column to “Age Group” for clarity.</br>![](images/picture8.jpg){width=30%}
+</br></br>
+**6. Check data type Age column**</br>Check that the “Age” column is of the correct data type _(String)_.</br>![](images/picture9.jpg){width=50%}
+</br></br>
+**7. Check data type of year columns**</br>Check that the rest of the year columns are of the correct data type _(Number[decimal])_.</br>![](images/picture10.jpg){width=100%}
+</br></br>
+**8. Define Column and Row data**</br>Drag "2009" and "2019" to the Columns pane and "Age Group" to the Rows pane.</br>![](images/picture11.jpg){width=100%}
+</br></br>
+**9. Exclude irrelevant columns**</br>Exclude the "NULL" and "Total" columns from the chart as these are not useful for the analysis.
+</br></br>
+**10. Exclude overlapping age group**</br>Exclude the overlapping age groups, as these will confuse the data presented in the visualisation.</br>![](images/picture12.jpg){width=50%}
+</br></br>
+**11. Sort Age Group**</br>Sort "Age Group" in descending order.
+</br></br>
+**12. Superimpose the two charts**</br>Select "Dual Axis" to combine the two charts into one.</br>![](images/picture13.jpg){width=50%}
+</br></br>
+**13. Synchronise the two y-axes**</br>Select "Synchronise Axis" to ensure both charts' y-axes match.</br>![](images/picture14.jpg){width=50%}
+</br></br>
+**14. Remove header**</br>Remove "Show Header" to show only one y-axis.</br>![](images/picture15.jpg){width=50%}
+</br></br>
+**15. Change visualisation for 2019 chart**</br>Change the 2019 Mark to Bar chart.</br>![](images/picture16.jpg){width=50%}
+</br></br>
+**16. Reorder 2019 and 2009 charts**</br>Swap "SUM(2019)" to the front of the Columns pane to display the 2019 chart behind the 2009 chart.</br>![](images/picture17.jpg){width=100%}
+</br></br>
+**17. Show whole range of x-axis**</br>Edit the range of the x-axis to show the whole range of 0% to 100%. Rename label as "LFPR (%)".</br>![](images/picture18.jpg){width=75%}
+</br></br>
+**18. Expand chart view**</br>Change the view to "Entire View" for visual clarity.</br>![](images/picture19.jpg){width=30%}
+</br></br>
+**19. Edit chart title**</br>![](images/picture20.jpg){width=100%}
+</br></br>
+**20. Edit Legend title**</br>Edit the Legend title to "Year".</br>![](images/picture21.jpg){width=50%}
+</br></br>
+**21. Rename the Sheet**</br>![](images/picture22.jpg){width=75%}
+</br></br>
+**22. Completed visualisation**</br>The completed chart looks like this:</br>![](images/picture23.jpg){width=100%}
+
 
 ### 2.4 Some key observations from the visualisation
 S/n | Observation
-- | ------
-1 | The 25 to 29 age group had the highest LFPR in 2009. Ten years later in 2019, the age group with the highest LFPR was 30 to 34, which is one age group younger than the original 25 to 29 age group. The shows that from 2009 to 2019, the age group with the highest LFPR moved down by one.
-2 | The largest increase in LFPR from 2009 to 2019 is among the 50 to 64, and 65 to 69 age groups. This is expected of an [ageing population](https://stats.mom.gov.sg/Pages/Labour-Force-In-Singapore-2019.aspx).
-3 | Of all the LFPR age groups, only the 20 to 24 age group declined in LFPR from 2009 to 2019. This is the only exception amongst all the LFPR age groups.
-4 | 4.	The lower the age group, the slower the increase in LFPR from 2009 to 2019, with the exception of the 15 to 19 age group, which seemed to reverse the trend compared to the next older age group. This seems to contradict Singapore’s Total Fertility Rate (TFR) which [has been declining](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate) consistently, but may have been bolstered by the slight up-tick in TFR in 2000.
+- | -------------
+1 | The largest increase in LFPR from 2009 to 2019 is among the 50 to 64, and 65 to 69 age groups. This type of movement in LFPR is to be expected of an [ageing population](https://stats.mom.gov.sg/Pages/Labour-Force-In-Singapore-2019.aspx), as more older workers join the workforce than their younger counterparts.
+2 | The 25 to 29 age group had the highest LFPR in 2009. Ten years later in 2019, the age group with the highest LFPR was 30 to 34, which is one age group younger than the original 25 to 29 age group. The shows that from 2009 to 2019, the age group with the highest LFPR moved down by one. The reason for this trend is outside the scope of this analysis but is a potential area of interest for further study.
+3 | Of all the age groups, only the 20 to 24 age group declined in LFPR from 2009 to 2019. This is the only exception amongst all the age groups. As this is the age group of university undergraduates, it may signify that more people in this age group were attending university. However, this particular point warrants further study.
+4 | Overall, the lower the age group, the slower the increase in LFPR from 2009 to 2019, with the exception of the 15 to 19 age group, which seemed to reverse the trend compared to the next older age group (20 to 24). This seems to contradict Singapore’s Total Fertility Rate (TFR) which [has been declining](https://www.singstat.gov.sg/modules/infographics/total-fertility-rate) consistently, but may have been bolstered by the slight up-tick in TFR in 2000.
 
 Thank you for visiting my blog!
 
 This blog is a data visualisation assignment for the [MITB programme](https://scis.smu.edu.sg/master-it-business) at the Singapore Management University.
-
+</br></br>
 <font size="2"> Distill is a publication format for scientific and technical writing, native to the web.</br>
 Learn more about using Distill at <https://rstudio.github.io/distill>. </font>
 
