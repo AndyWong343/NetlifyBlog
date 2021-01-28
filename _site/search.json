@@ -2,11 +2,17 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
-      "author": [],
+      "title": "Welcome to NetlifyBlog",
+      "description": "This is where I blog on my data analytics and visualisation journey.\n",
+      "author": [
+        {
+          "name": "Andy Wong (BBM, BCCE)",
+          "url": "https://www.linkedin.com/in/andywongkh"
+        }
+      ],
+      "date": "01-26-2021",
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-26T15:33:11+08:00"
+      "last_modified": "2021-01-28T21:05:38+08:00"
     },
     {
       "path": "dataviz.html",
@@ -21,14 +27,14 @@
       "description": "Some additional details about the blog\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-26T15:33:17+08:00"
+      "last_modified": "2021-01-28T21:03:51+08:00"
     },
     {
       "path": "index.html",
       "title": "My data visualisation journey",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-01-26T15:33:23+08:00"
+      "last_modified": "2021-01-28T20:55:33+08:00"
     },
     {
       "path": "vap.html",
