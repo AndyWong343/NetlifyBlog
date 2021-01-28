@@ -117,7 +117,7 @@ S/n | Observation
 
 Thanks for visiting my blog!
 
-This post is a data visualisation assignment for the [MITB programme](https://scis.smu.edu.sg/master-it-business) at the Singapore Management University.
+This post is a data visualisation assignment for the [MITB programme](https://scis.smu.edu.sg/master-it-business/about-mitb-main) at the Singapore Management University.
 </br></br>
 <font size="2"> Distill is a publication format for scientific and technical writing, native to the web.</br>
 Learn more about using Distill at <https://rstudio.github.io/distill>. </font>
