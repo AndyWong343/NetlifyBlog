@@ -3,4 +3,5 @@ title: "DataViz Makeover posts"
 listing:
   posts:
     - dataviz-makeover-1
+    - dataviz-makeover-2
 ---

@@ -17,6 +17,23 @@
     "input_file": {}
   },
   {
+    "path": "posts/dataviz-makeover-2/",
+    "title": "DataViz Makeover 2",
+    "description": "This visualisation presents lorem ipsum.",
+    "author": [
+      {
+        "name": "Andy WONG",
+        "url": "https://www.linkedin.com/in/andywongkh"
+      }
+    ],
+    "date": "2021-01-28",
+    "categories": [],
+    "contents": "\r\n1.0 Overview\r\nThe data visualisation is published on Tableau Public.\r\n1.1 Clarity vs aesthetics\r\nThe original chart is presented below:\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-02-04T21:09:12+08:00",
+    "input_file": "dataviz-makeover-2.utf8.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to NetlifyBlog",
     "description": "Welcome to our new blog, NetlifyBlog. We hope you enjoy \nreading what we have to say!",

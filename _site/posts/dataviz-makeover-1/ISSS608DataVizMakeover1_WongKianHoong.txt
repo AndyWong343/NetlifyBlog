@@ -1,0 +1,3 @@
+1. WebBlog DataViz Makeover 1 link: https://andywong.netlify.app/posts/dataviz-makeover-1/
+
+2. Tableau DataViz Makeover 1 link: https://public.tableau.com/profile/andy.wong8513#!/vizhome/DataVizMakeover1_16116436098390/LFPR2009-2019
