@@ -4,4 +4,5 @@ listing:
   posts:
     - dataviz-makeover-1
     - dataviz-makeover-2
+    - dataviz-makeover-3
 ---
